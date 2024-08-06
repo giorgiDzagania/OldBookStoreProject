@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "com.madeit.oldbookstore.app-mergeDebugResources-57:/layout/activity_free.xml",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/activity_free.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-mergeDebugResources-57:/layout/fragment_groups.xml",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/fragment_groups.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-mergeDebugResources-57:/layout/activity_main.xml",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-mergeDebugResources-57:/layout/activity_login.xml",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-mergeDebugResources-57:/layout/free.xml",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/free.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-mergeDebugResources-57:/layout/activity_reported_users.xml",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/activity_reported_users.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-mergeDebugResources-57:/layout/message.xml",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/message.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-mergeDebugResources-57:/layout/nav_header_dashboard.xml",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/nav_header_dashboard.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-mergeDebugResources-57:/layout/content_dashboard.xml",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/content_dashboard.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-mergeDebugResources-57:/layout/fragment_inbox.xml",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/fragment_inbox.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-mergeDebugResources-57:/layout/fragment_dashboard.xml",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-mergeDebugResources-57:/layout/activity_display_ad.xml",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/activity_display_ad.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-mergeDebugResources-57:/layout/fragment_sell.xml",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/fragment_sell.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-mergeDebugResources-57:/layout/chat_row.xml",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/chat_row.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-mergeDebugResources-57:/layout/activity_profile.xml",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-mergeDebugResources-57:/layout/activity_admin_panel.xml",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/activity_admin_panel.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-mergeDebugResources-57:/layout/activity_dashboard.xml",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-mergeDebugResources-57:/layout/activity_splash_screen.xml",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-mergeDebugResources-57:/layout/activity_all_users.xml",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/activity_all_users.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-mergeDebugResources-57:/layout/users_list.xml",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/users_list.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-mergeDebugResources-57:/layout/app_bar_dashboard.xml",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/app_bar_dashboard.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-mergeDebugResources-57:/layout/prompt_ads.xml",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/prompt_ads.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-mergeDebugResources-57:/layout/list_chats.xml",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/list_chats.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-mergeDebugResources-57:/layout/prompt.xml",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/prompt.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-mergeDebugResources-57:/layout/activity_view_profile.xml",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/activity_view_profile.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-mergeDebugResources-57:/layout/activity_chat.xml",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-mergeDebugResources-57:/layout/activity_admin_login.xml",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/activity_admin_login.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-mergeDebugResources-57:/layout/fragment_ads.xml",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/fragment_ads.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-mergeDebugResources-57:/layout/activity_price.xml",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/activity_price.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-mergeDebugResources-57:/layout/paid.xml",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/paid.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-mergeDebugResources-57:/layout/custom_list.xml",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/custom_list.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-mergeDebugResources-57:/layout/fragment_home.xml",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-mergeDebugResources-57:/layout/fragment_profile.xml",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/fragment_profile.xml"
+    }
+]

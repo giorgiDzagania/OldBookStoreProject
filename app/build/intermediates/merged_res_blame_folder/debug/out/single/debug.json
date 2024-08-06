@@ -1,0 +1,422 @@
+[
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_ic_baseline_warning_24.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/ic_baseline_warning_24.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_ic_baseline_add_24.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/layout_custom_list.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/custom_list.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/navigation_mobile_navigation.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/layout_nav_header_dashboard.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/nav_header_dashboard.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_icons8_christmas_gift_36___.png.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/icons8_christmas_gift_36___.png"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_border.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/border.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_ic_menu_camera.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/ic_menu_camera.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_circular_shaped_splash_screen.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/circular_shaped_splash_screen.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_icons8_email_send_18___.png.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/icons8_email_send_18___.png"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_icons8_christmas_gift_48___.png.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/icons8_christmas_gift_48___.png"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/layout_fragment_home.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/layout_activity_admin_login.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/activity_admin_login.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/layout_fragment_profile.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_rounded_corners_edit_text.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/rounded_corners_edit_text.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/menu_bottom_navigation_menu.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/menu/bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_circular_shaped_otp.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/circular_shaped_otp.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_icons8_facebook_messenger_48___.png.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/icons8_facebook_messenger_48___.png"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_ic_baseline_add_circle_outline_24.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/ic_baseline_add_circle_outline_24.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/layout_fragment_dashboard.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/layout_app_bar_dashboard.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/app_bar_dashboard.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/layout_fragment_inbox.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/fragment_inbox.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_icons8_facebook_messenger_96___.png.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/icons8_facebook_messenger_96___.png"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_icons8_email_send_96___.png.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/icons8_email_send_96___.png"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_icons8_christmas_gift_72___.png.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/icons8_christmas_gift_72___.png"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_ic_baseline_admin_panel_settings_24.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/ic_baseline_admin_panel_settings_24.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/layout_activity_main.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_bubble_out.9.png.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/bubble_out.9.png"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/layout_activity_view_profile.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/activity_view_profile.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_ic_baseline_search_24.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_send_message.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/send_message.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_rounded_button_send_otp.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/rounded_button_send_otp.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_ic_menu_slideshow.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_icons8_facebook_messenger_36___.png.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/icons8_facebook_messenger_36___.png"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/layout_activity_dashboard.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_ic_baseline_image_24.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/ic_baseline_image_24.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_location.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/location.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_rounded_corners1.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/rounded_corners1.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_bubble_in.9.png.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/bubble_in.9.png"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_icons8_facebook_messenger_24___.png.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/icons8_facebook_messenger_24___.png"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/layout_activity_splash_screen.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_icons8_email_send_72___.png.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/icons8_email_send_72___.png"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/layout_activity_login.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_rounded_corners2.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/rounded_corners2.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_round_button_submit.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/round_button_submit.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/layout_fragment_sell.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/fragment_sell.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_icons8_facebook_messenger_18___.png.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/icons8_facebook_messenger_18___.png"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_icons8_email_send_24___.png.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/icons8_email_send_24___.png"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_circular_shaped_otp_selected.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/circular_shaped_otp_selected.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_ic_baseline_home_24.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/ic_baseline_home_24.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/layout_fragment_ads.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/fragment_ads.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/layout_activity_admin_panel.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/activity_admin_panel.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_icons8_facebook_messenger_72___.png.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/icons8_facebook_messenger_72___.png"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_icons8_christmas_gift_96___.png.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/icons8_christmas_gift_96___.png"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_ic_outline_person_outline_24.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/ic_outline_person_outline_24.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/layout_content_dashboard.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/content_dashboard.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/layout_prompt.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/prompt.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/layout_free.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/free.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/layout_activity_price.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/activity_price.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_ic_menu_gallery.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/menu_activity_main_drawer.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_icons8_christmas_gift_24___.png.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/icons8_christmas_gift_24___.png"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_icons8_email_send_48___.png.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/icons8_email_send_48___.png"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/layout_list_chats.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/list_chats.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_ic_icons8_google.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/ic_icons8_google.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_ic_baseline_phone_24.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/ic_baseline_phone_24.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/layout_activity_reported_users.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/activity_reported_users.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_rounded_button_for_image.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/rounded_button_for_image.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/layout_activity_display_ad.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/activity_display_ad.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_round_button.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/round_button.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_files.png.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/files.png"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/layout_activity_profile.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/layout_chat_row.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/chat_row.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_ic_baseline_local_phone_24.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/ic_baseline_local_phone_24.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/xml_backup_rules.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/layout_activity_free.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/activity_free.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_ic_baseline_keyboard_backspace_24.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/ic_baseline_keyboard_backspace_24.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_icons8_christmas_gift_18___.png.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/icons8_christmas_gift_18___.png"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_gradient_screen_splash.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/gradient_screen_splash.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/layout_prompt_ads.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/prompt_ads.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/layout_activity_chat.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/layout_message.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/message.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/layout_paid.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/paid.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_side_nav_bar.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/layout_users_list.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/users_list.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/xml_data_extraction_rules.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_icons8_email_send_36___.png.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/icons8_email_send_36___.png"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/layout_activity_all_users.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/activity_all_users.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/layout_fragment_groups.xml.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/layout/fragment_groups.xml"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_send_files.png.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/send_files.png"
+    },
+    {
+        "merged": "com.madeit.oldbookstore.app-merged_res-58:/drawable_profile_pic.png.flat",
+        "source": "com.madeit.oldbookstore.app-main-60:/drawable/profile_pic.png"
+    }
+]
