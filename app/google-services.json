@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "970802585985",
+    "project_id": "old-book-store-d16cc",
+    "storage_bucket": "old-book-store-d16cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970802585985:android:39e2362525073b8f5f4880",
+        "android_client_info": {
+          "package_name": "com.madeit.oldbookstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970802585985-7n1lpn2j8ttrmcis5kr6nss3e6djkbvi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.madeit.oldbookstore",
+            "certificate_hash": "57c1363a1d7d5d7a3f749f9d5689174f8484979e"
+          }
+        },
+        {
+          "client_id": "970802585985-j47c2jdv6k1i8g8ivesl9pb8c223et1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8oVK7yLEZbMqR_MGRZv1MoD4eX16nTIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970802585985-j47c2jdv6k1i8g8ivesl9pb8c223et1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
